@@ -1,0 +1,24 @@
+{
+  "data_source": "akshare",
+  "tushare_token": "d2fe97550c493d42f89788339d3603f92e17731c574dec20b906e2bf",
+  "prediction_model": "ensemble",
+  "history_years": 2,
+  "enable_sentiment": true,
+  "enable_northbound": true,
+  "auto_refresh": true,
+  "push_notification": true,
+  "red_threshold": 0.5,
+  "watchlist": [
+    "000001",
+    "600519",
+    "000858",
+    "300750",
+    "000425",
+    "002130",
+    "002490",
+    "600900",
+    "600744"
+  ],
+  "theme": "dark",
+  "language": "zh_CN"
+}

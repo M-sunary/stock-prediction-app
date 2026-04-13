@@ -1,0 +1,1 @@
+{"weights": {"xgboost": 0.441, "lightgbm": 0.459, "logreg": 0.1}, "feature_names": ["ma_diff_5_20", "macd", "macd_hist", "macd_golden_cross", "rsi14", "kdj_k", "kdj_d", "kdj_j", "boll_pct", "vol_ratio", "obv", "amplitude", "turnover", "ret_1d", "ret_3d", "ret_5d", "ret_10d", "ret_20d", "vol_10d"], "is_trained": true}
